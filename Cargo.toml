@@ -1,0 +1,9 @@
+[package]
+name = "make_u32_from_two_u16"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Concatenates two `u16` values into a `u32`."
+repository = "https://github.com/mirsella/make_u32_from_two_u16"
+
+[dependencies]
